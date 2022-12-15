@@ -1,6 +1,10 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hi 👋, I'm QRWells</h1>
+<h3 align="center">A student from China, living in Japan now.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qrwells&label=Profile%20views&color=0e75b6&style=flat" alt="qrwells" /> </p>
 
-I'm an university student from China, living in Japan now.
+- 🌱 I’m currently learning **Rust, io_uring**
+
+- 📫 How to reach me **qirui.wang@moegi.waseda.jp**
 
 ### 🔧 Techs & Tools
 
@@ -18,24 +22,16 @@ I'm an university student from China, living in Japan now.
 <a href="https://code.visualstudio.com/" target="_blank"><img alt="VSC" src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"></a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"><img alt="VS" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"></a>
 
+### 📮 Connect with me:
+<p align="left">
+<a href="https://dev.to/qrwells" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="qrwells" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/qirui-wang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qirui-wang" height="30" width="40" /></a>
+</p>
 
-### 🌱 I’m currently learning ...
-- Operating system
-- FPGA
-- [Rust](https://github.com/rust-lang/rust)
-- [F#](https://fsharp.org/)
+### 📆 Statistics
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QRWells&layout=compact&theme=bear&bg_color=00000000" alt="qrwells" /></p>
 
-<!--
-**QRWells/QRWells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=QRWells&show_icons=true&include_all_commits=true&theme=bear&bg_color=00000000" alt="qrwells" /></p>
 
-Here are some ideas to get you started:
+<p><img align="center" src="https://streak-stats.demolab.com?user=QRWells&theme=bear&border_radius=5&date_format=%5BY.%5Dn.j&background=00000000" alt="qrwells" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
