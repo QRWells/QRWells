@@ -2,7 +2,7 @@
 <h3 align="center">A student from China, living in Japan now.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qrwells&label=Profile%20views&color=0e75b6&style=flat" alt="qrwells" /> </p>
 
-- 🌱 I’m currently learning **Rust, io_uring**
+- 🌱 I’m currently learning: **Rust**/**io_uring**/**vert.x**
 
 - 📫 How to reach me **qirui.wang@moegi.waseda.jp**
 
