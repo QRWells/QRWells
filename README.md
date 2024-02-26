@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm QRWells</h1>
-<h3 align="center">A student from China, living in Japan now.</h3>
+<h3 align="center">A developer from China, living in Japan now.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qrwells&label=Profile%20views&color=0e75b6&style=flat" alt="qrwells" /> </p>
 
-- 🌱 I’m currently learning: **Rust**/**io_uring**/**vert.x**
+- 🌱 I’m currently learning: **Compiler**/**Static Analysis**
 
-- 📫 How to reach me **qirui.wang@moegi.waseda.jp**
+- 📫 How to reach me **mr.qrwang@gmail.com**
 
 ### 🔧 Techs & Tools
 
 <a href="https://github.com/QRWells?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
 <a href="https://github.com/QRWells?tab=repositories&language=c%23" target="_blank"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"></a>
 <a href="https://github.com/QRWells?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"></a>
-<a href="https://github.com/QRWells?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
 <a href="https://github.com/QRWells?tab=repositories&language=rust" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"></a>
 
 <a href="https://github.com/QRWells" target="_blank"><img alt="Tool" src="https://img.shields.io/badge/-tool-000000?style=flat-square&logo=Plex&logoColor=white"></a>
