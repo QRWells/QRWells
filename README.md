@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning: **Compiler**/**Static Analysis**
 
-- 📫 How to reach me **mr.qrwang@gmail.com**
+- 📫 How to reach me **wang.qirui@moneyforward.co.jp**
 
 ### 🔧 Techs & Tools
 
